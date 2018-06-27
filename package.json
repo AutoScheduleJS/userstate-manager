@@ -2,9 +2,9 @@
   "name": "@autoschedule/userstate-manager",
   "version": "0.0.0-development",
   "description": "User-state manager",
-  "main": "lib/lib.js",
-  "module": "es/lib.js",
-  "types": "es/lib.d.ts",
+  "main": "lib/index.js",
+  "module": "es/index.js",
+  "types": "es/index.d.ts",
   "scripts": {
     "ava": "ava build/**/*.test.js",
     "test": "tslint -p ./ && tsc && nyc --reporter=lcov npm run ava",
