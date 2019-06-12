@@ -47,7 +47,7 @@
     "rxjs": "^5.5.7"
   },
   "devDependencies": {
-    "@semantic-release/release-notes-generator": "^6.0.12",
+    "@semantic-release/release-notes-generator": "^7.2.0",
     "@types/lokijs": "^1.5.2",
     "@types/ramda": "github:types/npm-ramda#dist",
     "ava": "^0.25.0",
